@@ -32,8 +32,8 @@ import {
       title: "About",
     },
     {
-      id: "work",
-      title: "Work",
+      id: "Works",
+      title: "Works",
     },
     {
       id: "contact",
@@ -55,7 +55,7 @@ import {
       icon: backend,
     },
     {
-      title: "Database Management",
+      title: "Database Manager",
       icon: dbms,
     },
   ];

@@ -1,17 +1,17 @@
-import { useState, useRef } from "react";
-import { motion } from 'framer-motion';
-import emailjs from '@emailjs/browser';
-import { styles } from '../styles';
-import { github } from '../assets';
-import { linkedin } from '../assets';
-import { CP } from '../assets';
-import { upwork } from '../assets';
-import { EarthCanvas } from "./canvas";
-import { SectionWrapper } from "../hoc";
-import { slideIn } from "../utils/motion";
+import { useState, useRef } from "react"
+import { motion } from 'framer-motion'
+import emailjs from '@emailjs/browser'
+import { styles } from '../styles'
+import { github } from '../assets'
+import { linkedin } from '../assets'
+import { CP } from '../assets'
+import { upwork } from '../assets'
+import { EarthCanvas } from "./canvas"
+import { SectionWrapper } from "../hoc"
+import { slideIn } from "../utils/motion"
 
 const Contact = () => {
-  const formRef = useRef();
+  const formRef = useRef()
 
   const [form, setForm] = useState({
     name: '',
@@ -19,7 +19,7 @@ const Contact = () => {
     message: '',
   })
 
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(false)
 
   const handleChange = (e) => {
     const { name, value } = e.target
@@ -164,4 +164,4 @@ const Contact = () => {
   )
 }
 
-export default SectionWrapper(Contact, "contact");
+export default SectionWrapper(Contact, "contact")

@@ -1,11 +1,11 @@
-import { Tilt } from 'react-tilt';
-import { motion } from 'framer-motion';
-import { styles } from '../styles';
-import { github } from '../assets';
-import { flyio } from '../assets';
-import { SectionWrapper } from '../hoc';
-import { projects } from '../constants';
-import { fadeIn, textVariant } from '../utils/motion';
+import { Tilt } from 'react-tilt'
+import { motion } from 'framer-motion'
+import { styles } from '../styles'
+import { github } from '../assets'
+import { flyio } from '../assets'
+import { SectionWrapper } from '../hoc'
+import { projects } from '../constants'
+import { fadeIn, textVariant } from '../utils/motion'
 
 const ProjectCard = ({ index, name, description, tags, image, source_code_link, deployment_link }) => {
   return (
@@ -89,4 +89,4 @@ const Works = () => {
   )
 }
 
-export default SectionWrapper(Works, "");
+export default SectionWrapper(Works, "Works")
