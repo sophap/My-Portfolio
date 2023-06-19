@@ -1,10 +1,19 @@
 import { Html, useProgress } from '@react-three/drei'
 
-const Loader = () => {
+const CanvasLoader = () => {
   const { progress } = useProgress()
 
   return (
-    <Html>
+    <Html
+    as='div'
+    center
+    style={{
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+      flexDirection: "column",
+    }}
+    >
       <span className='canvas-load'></span>
       <p style={{
         fontSize: 14,
@@ -17,4 +26,4 @@ const Loader = () => {
   )
 }
 
-export default Loader
+export default CanvasLoader

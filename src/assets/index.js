@@ -10,6 +10,7 @@ import upwork from "./upwork.png";
 import flyio from "./flyio.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import sophie from "./sophie.jpeg";
 
 import css from "./tech/css.png";
 import c from "./tech/c.png";
@@ -68,5 +69,6 @@ export {
   upwork,
   mybasecamp2,
   mydropbox,
+  sophie,
   myapi,
 };

@@ -5,6 +5,7 @@ import { styles } from '../styles'
 import { services } from '../constants'
 import { fadeIn, textVariant } from '../utils/motion'
 import { SectionWrapper } from '../hoc'
+import { sophie } from '../assets'
 
 const ServiceCard = ({index, title, icon}) => {
   return (
@@ -34,10 +35,12 @@ const About = () => {
     <>
     <motion.div variants={textVariant()}>
       <p className={styles.sectionSubText}>Introduction</p>
-      <h2 className={styles.sectionHeadText}>Overview.</h2>
+      <h2 className={styles.sectionHeadText}>Overview.  <img src={sophie} alt="sophie" className='w-25 h-25 rounded-[20px] object-contain'/></h2>
+      
     </motion.div>
+    
     <motion.p
-    variants={fadeIn("", "", 0.1, 1)}
+    variants={fadeIn("left", "tween", 0.2, 1)}
     className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
     > I am an experienced software developer proficient in JavaScript, Python, SQL, C, and Ruby. I have expertise in frameworks such as Sinatra, React, Node.js, Three.js, Ruby on Rails, and DBMS. As a quick learner, I thrive on collaborating closely with colleagues and clients to deliver efficient, scalable, and user-friendly solutions that effectively solve real-world problems. Let's join forces and transform your ideas into reality!
     </motion.p>

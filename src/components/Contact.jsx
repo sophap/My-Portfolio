@@ -1,3 +1,4 @@
+import React from "react"
 import { useState, useRef } from "react"
 import { motion } from 'framer-motion'
 import emailjs from '@emailjs/browser'
@@ -22,7 +23,8 @@ const Contact = () => {
   const [loading, setLoading] = useState(false)
 
   const handleChange = (e) => {
-    const { name, value } = e.target
+    const { target } = e
+    const { name, value } = target
 
     setForm({ ...form, [name]: value })
   }
@@ -31,19 +33,21 @@ const Contact = () => {
     e.preventDefault()
     setLoading(true)
 
-    emailjs.send(
+    emailjs
+    .send(
       'service_0863n47',
       'template_l05naz5',
       {
         from_name: form.name,
-        to_name: 'Sophie',
+        to_name: 'Praise Sophia Right',
         from_email: form.email,
         to_email: 'rightpraise@gmail.com',
         message: form.message,
       },
       'cSV6gV677C2MAwHkg'
     )
-    .then(() => {
+    .then(
+      () => {
       setLoading(false)
       alert('Thank you. I will get back to you as soon as possible.')
 
@@ -52,7 +56,8 @@ const Contact = () => {
         email: '',
         message: '',
       })
-    }, (error) => {
+    }, 
+    (error) => {
       setLoading(false)
 
       console.log(error)
