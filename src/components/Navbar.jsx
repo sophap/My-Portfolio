@@ -58,6 +58,7 @@ const Navbar = () => {
               <a href={`#${link.id}`}>{link.title}</a>
             </li>
           ))}
+          <a className="text-secondary hover:text-white text-[18px] font-medium cursor-pointer" onClick={() => window.open("https://drive.google.com/file/d/1k6pa7L6wzKeRzEXVJ4bFpt3S0kYGTIIk/view", "_blank")}>Resume </a>
         </ul>
         <div className='sm:hidden flex flex-1 justify-end items-center'>
           <img
@@ -84,6 +85,7 @@ const Navbar = () => {
                   <a href={`#${link.id}`}>{link.title}</a>
                 </li>
             ))}
+            <a className="text-secondary font-poppins font-medium cursor-pointer text-[16px]" onClick={() => window.open("https://drive.google.com/file/d/1k6pa7L6wzKeRzEXVJ4bFpt3S0kYGTIIk/view", "_blank")}>Resume </a>
           </ul>
         </div>
         </div>

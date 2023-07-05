@@ -4,7 +4,7 @@ import dbms from "./dbms.png";
 import api1 from "./api1.jpg";
 import web from "./web.png";
 import github from "./github.png";
-import CP from "./CP.jpg";
+import twitter from "./twitter.png";
 import linkedin from "./linkedin.png";
 import upwork from "./upwork.png";
 import flyio from "./flyio.png";
@@ -21,12 +21,8 @@ import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import python from "./tech/python.png";
-import nodejs from "./tech/nodejs.png";
-import reactjs from "./tech/reactjs.png";
 import ruby from "./tech/ruby.png";
-import tailwind from "./tech/tailwind.png";
 import rails from "./tech/rails.png";
-import threejs from "./tech/threejs.svg";
 
 import FCC from "./company/FCC.png";
 import alx from "./company/alx.jpg";
@@ -52,19 +48,15 @@ export {
   html,
   javascript,
   python,
-  nodejs,
-  reactjs,
   c,
-  tailwind,
+  twitter,
   ruby,
-  threejs,
   mysql,
   postgresql,
   bootstrap,
   Qwasar,
   alx,
   FCC,
-  CP,
   linkedin,
   upwork,
   mybasecamp2,

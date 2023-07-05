@@ -7,10 +7,7 @@ import {
     rails,
     html,
     css,
-    reactjs,
     python,
-    tailwind,
-    nodejs,
     c,
     git,
     ruby,
@@ -22,7 +19,6 @@ import {
     mydropbox,
     mybasecamp2,
     myapi,
-    threejs,
     Qwasar,
   } from "../assets";
   
@@ -78,28 +74,12 @@ import {
       icon: rails,
     },
     {
-      name: "React JS",
-      icon: reactjs,
-    },
-    {
       name: "Python",
       icon: python,
     },
     {
-      name: "Tailwind CSS",
-      icon: tailwind,
-    },
-    {
-      name: "Node JS",
-      icon: nodejs,
-    },
-    {
       name: "C",
       icon: c,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
     },
     {
       name: "git",
