@@ -42,7 +42,7 @@ const About = () => {
     <motion.p
     variants={fadeIn("left", "tween", 0.2, 1)}
     className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
-    > I am an experienced software developer proficient in JavaScript, Python, SQL, C, and Ruby. I have expertise in frameworks such as Sinatra, React, Node.js, Three.js, Ruby on Rails, and DBMS. As a quick learner, I thrive on collaborating closely with colleagues and clients to deliver efficient, scalable, and user-friendly solutions that effectively solve real-world problems. Let's join forces and transform your ideas into reality!
+    > I am an experienced software developer proficient in JavaScript, Python, SQL, C, and Ruby. I have expertise in frameworks such as Sinatra, Ruby on Rails, and DBMS. As a quick learner, I thrive on collaborating closely with colleagues and clients to deliver efficient, scalable, and user-friendly solutions that effectively solve real-world problems. Let's join forces and transform your ideas into reality!
     </motion.p>
     <div className='mt-20 flex flex-wrap gap-10'>
       {services.map((service, index) => (
