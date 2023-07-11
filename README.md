@@ -1,7 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello!</h1>
-
-
-<p>Welcome to my page! </br> I'm Sophie, Software Engineer currently living in <img src="https://www.vhv.rs/dpng/d/462-4626840_ng-nigeria-flag-icon-nigeria-flag-in-png.png" width="13"/> <b>Abuja, Nigeria</b>. </p>
+<img src="https://github.com/sophap/sophap/blob/master/src/assets/myportfolio.png" alt="Sophap Github README header image">
 <h3>Things I code with</h3>
 <p>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
