@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.instagram.com/soph_ap/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/336/165/png-transparent-instagram-instagram-logo-3d-instagram-logo-social-media-logo-application-3d-icon.png" alt="sophap" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/soph_ap/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="sophap" height="30" width="40" /></a>
 <a href="https://www.upwork.com/freelancers/~010a23e3946b9c1866?viewMode=1" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/491/685/png-transparent-upwork-freelancer-com-logo-fiverr-futures-contract.png" alt="sophap" height="30" width="40" /></a>
 <a href="https://twitter.com/phrai_zee" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sophia-right-8b6a69232/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
