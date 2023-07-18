@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sophap&show_icons=true&theme=dark&locale=en" alt="sophap" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sophap&" alt="sophap" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sophap&theme=dark" alt="sophap" /></p>
