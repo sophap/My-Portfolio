@@ -11,13 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.instagram.com/soph_ap/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="sophap" height="30" width="40" /></a>
+
 <a href="https://www.upwork.com/freelancers/~010a23e3946b9c1866?viewMode=1" target="blank"><img align="center" src="https://assets-global.website-files.com/5ec7d9f13fc8c0ec8a4c6b26/6092b794e0419d97d9b06e2b_Favicon%20256.png" alt="sophap" height="30" width="40" /></a>
 <a href="https://twitter.com/phrai_zee" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sophia-right-8b6a69232/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/praise.right.12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sophap" height="30" width="40" /></a>
- <a href="https://wa.me/2347030336824" target="_blank">
-    <img align="center" src="https://clipart-library.com/images_k/whatsapp-transparent/whatsapp-transparent-12.png" alt="WhatsApp Icon" width="40" > <span id="online-status"></span> </a>
 
 </p>
 <h3>Languages and Tools</h3>
